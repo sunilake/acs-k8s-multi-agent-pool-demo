@@ -2,4 +2,3 @@
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 
-https://anthonychu.ca/post/hybrid-kubernetes-linux-windows-cluster-easy-steps/
